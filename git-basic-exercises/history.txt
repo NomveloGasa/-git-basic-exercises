@@ -52,6 +52,7 @@
    52  git log
    53  git branch
    54  history > history.txt
+<<<<<<< HEAD
    55  git add history.txt
    56  git commit -m "added history"
    57  checkout milkshake-flavours
@@ -81,3 +82,5 @@
    81  git checkout history
    82  ls
    83  history > history.txt
+=======
+>>>>>>> main
